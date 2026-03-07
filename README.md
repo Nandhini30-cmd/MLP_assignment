@@ -65,24 +65,9 @@ Train a model from the command line:
 
 ```bash
 cd src
+ python train.py -d mnist -e 30 -b 32 -l cross_entropy -o rmsprop -lr 0.001 -wd 0.0005 -nhl 3 -sz 128 64 32 -a relu -w_i xavier -w_p mnist_sweep
 
-python train.py \
-  -d mnist \
-  -e 30 \
-  -b 32 \
-  -l cross_entropy \
-  -o rmsprop \
-  -lr 0.001 \
-  -wd 0.0005 \
-  -nhl 3 \
-  -sz 128 64 32 \
-  -a relu \
-  -w_i xavier \
-  -w_p mnist_sweep \
-  -m best_model.npy
 ```
-
-
 
 
 ### Training Arguments
@@ -110,14 +95,7 @@ Evaluate a saved model on the test set:
 ```bash
 cd src
 
-python src/inference.py \
--d mnist \
--b 32 \
--nhl 3 \
--sz 128 64 32 \
--a relu \
--m src/best_model.npy
-```
+python src/inference.py -d mnist -b 32 -nhl 3 -sz 128 64 32 -a relu -l cross_entropy -o rmsprop -lr 0.001 -wd 0.0005 -w_i xavier -w_p MLP_Demo -m src/best_model.npy
 
 Output includes  accuracy, F1 score, precision and recall.
 
