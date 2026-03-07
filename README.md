@@ -195,12 +195,9 @@ Matplotlib — Plotting & visualizations
 ---
 
 
-
-
-
-
 ## Author
 
 Nandhini M (ns26z008)
+Email id- ns26z008@smail.iitm.ac.in
 Applied Mechanics & Biomedical Engineering  
 
