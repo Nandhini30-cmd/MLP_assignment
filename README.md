@@ -1,28 +1,35 @@
 # DA6401 Assignment 1: Multi-Layer Perceptron for Image Classification
 
-A neural network built **from scratch using NumPy** for image classification on MNIST and Fashion-MNIST datasets, with full [Weights & Biases](https://wandb.ai/) experiment tracking.
+A neural network built from scratch using NumPy for image classification on MNIST and Fashion-MNIST datasets, with full [Weights & Biases](https://wandb.ai/nandhini-ic43581-iit-madras/mnist_sweep/table?nw=nwusernandhiniic43581) experiment tracking.
 
 ---
+## W&B Report
+
+[View the full experiment report on Weights & Biases](https://api.wandb.ai/links/nandhini-ic43581-iit-madras/57xakro8)
+
+
+
+
 
 ## Project Structure
 
 ```
 ├── src/
-│   ├── ann/                      # Core neural network library
-│   │   ├── neural_network.py     # NeuralNetwork class (forward, backprop, training loop)
-│   │   ├── neural_layer.py       # Dense layer (weights, biases, gradients)
-│   │   ├── activations.py        # ReLU, Sigmoid, Tanh & their derivatives
-│   │   ├── optimizers.py         # SGD, Momentum, NAG, RMSProp
-│   │   └── objective_functions.py# Cross-Entropy & MSE loss functions
+│   ├── ann/                      
+│   │   ├── neural_network.py    
+│   │   ├── neural_layer.py       
+│   │   ├── activations.py        
+│   │   ├── optimizers.py         
+│   │   └── objective_functions.py
 │   ├── utils/
-│   │   └── data_loader.py        # Load MNIST / Fashion-MNIST via Keras
-│   ├── train.py                  # CLI training entry point
-│   ├── inference.py              # CLI inference & evaluation
-│   ├── best_config.json          # Best hyperparameter configuration
-│   └── best_model.npy            # Best saved model weights
+│   │   └── data_loader.py        
+│   ├── train.py                  
+│   ├── inference.py              
+│   ├── best_config.json          
+│   └── best_model.npy            
 ├── notebooks/
-│   ├── assignment_report.ipynb   # Full assignment report & experiments notebook
-│   └── wandb_demo.ipynb          # W&B demo notebook
+│   ├── assignment_report.ipynb   
+│   └── wandb_demo.ipynb          
 ├── requirements.txt
 └── README.md
 ```
@@ -34,13 +41,13 @@ A neural network built **from scratch using NumPy** for image classification on 
 ### Prerequisites
 
 - Python 3.8+
-- A [Weights & Biases](https://wandb.ai/) account (for experiment logging)
+- A [Weights & Biases](https://wandb.ai/nandhini-ic43581-iit-madras/mnist_sweep/table?nw=nwusernandhiniic43581) account (for experiment logging)
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/Nandhini30-cmd/MLP_assignment
 cd da6401_assignment_1-main
 
 # Install dependencies
@@ -196,3 +203,4 @@ Matplotlib — Plotting & visualizations
 
 Nandhini M (ns26z008)
 Applied Mechanics & Biomedical Engineering  
+
