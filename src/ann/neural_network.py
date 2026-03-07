@@ -35,7 +35,7 @@ class NeuralNetwork:
     
             input_size = output_size
         
-        self.layers.append(NeuralLayer(input_size, 10))  # Output layer for 10 classes
+        self.layers.append(NeuralLayer(input_size, 10))  
        
         # Loss
         if cli_args.loss == "mse":
@@ -95,7 +95,7 @@ class NeuralNetwork:
         Update weights using the optimizer.
         """
         for layer in self.layers:
-            if hasattr(layer, "W"):  # Only update layers with weights
+            if hasattr(layer, "W"): 
                 self.optimizer.update(layer)    
     
     def train(self, X_train, y_train, epochs, batch_size):
