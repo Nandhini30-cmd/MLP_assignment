@@ -1,0 +1,23 @@
+2026-03-06 00:25:14,800 INFO    MainThread:26684 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\notebooks\wandb\run-20260306_002514-snwn0a5h\logs\debug.log
+2026-03-06 00:25:14,801 INFO    MainThread:26684 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\notebooks\wandb\run-20260306_002514-snwn0a5h\logs\debug-internal.log
+2026-03-06 00:25:14,801 INFO    MainThread:26684 [wandb_init.py:init():844] calling init triggers
+2026-03-06 00:25:14,801 INFO    MainThread:26684 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.01, 'epochs': 100, 'loss_type': 'mse', 'weight_init': 'zero', 'num_hidden_layers': 3, 'hidden_size': [128, 128, 128], 'activation': 'relu', 'optimizer': 'sgd', 'batch_size': 64, '_wandb': {}}
+2026-03-06 00:25:14,804 INFO    MainThread:26684 [wandb_init.py:init():892] starting backend
+2026-03-06 00:25:14,804 INFO    MainThread:26684 [wandb_init.py:init():895] sending inform_init request
+2026-03-06 00:25:14,806 INFO    MainThread:26684 [wandb_init.py:init():903] backend started and connected
+2026-03-06 00:25:14,807 INFO    MainThread:26684 [wandb_run.py:_label_probe_notebook():1333] probe notebook
+2026-03-06 00:25:14,831 INFO    MainThread:26684 [wandb_run.py:_label_probe_notebook():1343] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 151024: character maps to <undefined>
+2026-03-06 00:25:14,832 INFO    MainThread:26684 [wandb_init.py:init():973] updated telemetry
+2026-03-06 00:25:14,833 INFO    MainThread:26684 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-03-06 00:25:17,003 INFO    MainThread:26684 [wandb_init.py:init():1042] starting run threads in backend
+2026-03-06 00:25:20,393 INFO    MainThread:26684 [wandb_run.py:_console_start():2524] atexit reg
+2026-03-06 00:25:20,393 INFO    MainThread:26684 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-03-06 00:25:20,393 INFO    MainThread:26684 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-03-06 00:25:20,394 INFO    MainThread:26684 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-03-06 00:25:20,396 INFO    MainThread:26684 [wandb_init.py:init():1082] run started, returning control to user process
+2026-03-06 00:25:20,480 INFO    MainThread:26684 [wandb_run.py:_finish():2291] finishing run nandhini-ic43581-iit-madras/mnist_sweep/snwn0a5h
+2026-03-06 00:25:20,481 INFO    MainThread:26684 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 1
+2026-03-06 00:25:20,482 INFO    MainThread:26684 [wandb_run.py:_restore():2472] restore
+2026-03-06 00:25:20,482 INFO    MainThread:26684 [wandb_run.py:_restore():2478] restore done
+2026-03-06 00:25:26,989 INFO    MainThread:26684 [wandb_run.py:_footer_sync_info():3868] logging synced files

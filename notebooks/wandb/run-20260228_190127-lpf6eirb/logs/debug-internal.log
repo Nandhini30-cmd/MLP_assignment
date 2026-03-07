@@ -1,0 +1,12 @@
+{"time":"2026-02-28T19:01:29.9233067+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T19:01:30.4830306+05:30","level":"INFO","msg":"stream: created new stream","id":"lpf6eirb"}
+{"time":"2026-02-28T19:01:30.4830306+05:30","level":"INFO","msg":"handler: started","stream_id":"lpf6eirb"}
+{"time":"2026-02-28T19:01:30.4866085+05:30","level":"INFO","msg":"stream: started","id":"lpf6eirb"}
+{"time":"2026-02-28T19:01:30.4866085+05:30","level":"INFO","msg":"writer: started","stream_id":"lpf6eirb"}
+{"time":"2026-02-28T19:01:30.4866085+05:30","level":"INFO","msg":"sender: started","stream_id":"lpf6eirb"}
+{"time":"2026-02-28T19:02:34.482821+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T19:02:34.8973758+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T19:02:34.9054315+05:30","level":"INFO","msg":"stream: closing","id":"lpf6eirb"}
+{"time":"2026-02-28T19:02:34.9062356+05:30","level":"INFO","msg":"handler: closed","stream_id":"lpf6eirb"}
+{"time":"2026-02-28T19:02:34.9091425+05:30","level":"INFO","msg":"sender: closed","stream_id":"lpf6eirb"}
+{"time":"2026-02-28T19:02:34.9091425+05:30","level":"INFO","msg":"stream: closed","id":"lpf6eirb"}

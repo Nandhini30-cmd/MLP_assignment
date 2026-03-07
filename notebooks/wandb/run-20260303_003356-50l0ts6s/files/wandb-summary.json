@@ -1,0 +1,1 @@
+{"epoch":29,"_step":29,"_wandb":{"runtime":200},"val_accuracy":0.11253964172452216,"activation":"relu","_timestamp":1.772478440437578e+09,"optimizer":"sgd","learning_rate":0.001,"hidden_size":128,"_runtime":200,"num_hidden_layers":6,"train_loss":2.3011864556547117,"batch_size":64,"weight_init":"random"}

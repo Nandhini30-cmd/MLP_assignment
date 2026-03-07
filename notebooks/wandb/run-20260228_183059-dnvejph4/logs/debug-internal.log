@@ -1,0 +1,12 @@
+{"time":"2026-02-28T18:31:01.8270514+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T18:31:02.2747031+05:30","level":"INFO","msg":"stream: created new stream","id":"dnvejph4"}
+{"time":"2026-02-28T18:31:02.2754771+05:30","level":"INFO","msg":"handler: started","stream_id":"dnvejph4"}
+{"time":"2026-02-28T18:31:02.292058+05:30","level":"INFO","msg":"stream: started","id":"dnvejph4"}
+{"time":"2026-02-28T18:31:02.2940709+05:30","level":"INFO","msg":"writer: started","stream_id":"dnvejph4"}
+{"time":"2026-02-28T18:31:02.2940709+05:30","level":"INFO","msg":"sender: started","stream_id":"dnvejph4"}
+{"time":"2026-02-28T18:33:12.9020946+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T18:33:13.3103552+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T18:33:13.3207828+05:30","level":"INFO","msg":"stream: closing","id":"dnvejph4"}
+{"time":"2026-02-28T18:33:13.3207828+05:30","level":"INFO","msg":"handler: closed","stream_id":"dnvejph4"}
+{"time":"2026-02-28T18:33:13.3511058+05:30","level":"INFO","msg":"sender: closed","stream_id":"dnvejph4"}
+{"time":"2026-02-28T18:33:13.3511058+05:30","level":"INFO","msg":"stream: closed","id":"dnvejph4"}

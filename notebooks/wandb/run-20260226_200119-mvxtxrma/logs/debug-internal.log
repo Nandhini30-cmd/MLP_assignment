@@ -1,0 +1,12 @@
+{"time":"2026-02-26T20:01:21.4799694+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T20:01:21.9976005+05:30","level":"INFO","msg":"stream: created new stream","id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:21.9981334+05:30","level":"INFO","msg":"handler: started","stream_id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:22.0021527+05:30","level":"INFO","msg":"stream: started","id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:22.0021527+05:30","level":"INFO","msg":"writer: started","stream_id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:22.0021527+05:30","level":"INFO","msg":"sender: started","stream_id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:25.1810066+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T20:01:25.6942421+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T20:01:25.7189243+05:30","level":"INFO","msg":"stream: closing","id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:25.7189243+05:30","level":"INFO","msg":"handler: closed","stream_id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:25.7265072+05:30","level":"INFO","msg":"sender: closed","stream_id":"mvxtxrma"}
+{"time":"2026-02-26T20:01:25.7265072+05:30","level":"INFO","msg":"stream: closed","id":"mvxtxrma"}

@@ -1,0 +1,12 @@
+{"time":"2026-02-26T19:42:17.8351641+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T19:42:18.4879568+05:30","level":"INFO","msg":"stream: created new stream","id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:18.4879568+05:30","level":"INFO","msg":"handler: started","stream_id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:18.49074+05:30","level":"INFO","msg":"stream: started","id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:18.49074+05:30","level":"INFO","msg":"writer: started","stream_id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:18.49074+05:30","level":"INFO","msg":"sender: started","stream_id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:21.6051075+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T19:42:22.0832809+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T19:42:22.10374+05:30","level":"INFO","msg":"stream: closing","id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:22.10374+05:30","level":"INFO","msg":"handler: closed","stream_id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:22.1054321+05:30","level":"INFO","msg":"sender: closed","stream_id":"esw2uhkd"}
+{"time":"2026-02-26T19:42:22.1054321+05:30","level":"INFO","msg":"stream: closed","id":"esw2uhkd"}

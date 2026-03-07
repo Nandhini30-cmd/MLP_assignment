@@ -1,0 +1,13 @@
+{"time":"2026-03-04T20:30:08.6370873+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-04T20:30:09.0921933+05:30","level":"INFO","msg":"stream: created new stream","id":"eg4w8dbw"}
+{"time":"2026-03-04T20:30:09.0927216+05:30","level":"INFO","msg":"handler: started","stream_id":"eg4w8dbw"}
+{"time":"2026-03-04T20:30:09.0950223+05:30","level":"INFO","msg":"stream: started","id":"eg4w8dbw"}
+{"time":"2026-03-04T20:30:09.0950223+05:30","level":"INFO","msg":"writer: started","stream_id":"eg4w8dbw"}
+{"time":"2026-03-04T20:30:09.0950223+05:30","level":"INFO","msg":"sender: started","stream_id":"eg4w8dbw"}
+{"time":"2026-03-04T20:31:17.1647642+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-04T20:32:14.1522787+05:30","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/vanishing_gradient_analysis/eg4w8dbw/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2026-03-04T20:32:17.6401058+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-04T20:32:17.6616925+05:30","level":"INFO","msg":"stream: closing","id":"eg4w8dbw"}
+{"time":"2026-03-04T20:32:17.6616925+05:30","level":"INFO","msg":"handler: closed","stream_id":"eg4w8dbw"}
+{"time":"2026-03-04T20:32:17.6639877+05:30","level":"INFO","msg":"sender: closed","stream_id":"eg4w8dbw"}
+{"time":"2026-03-04T20:32:17.6639877+05:30","level":"INFO","msg":"stream: closed","id":"eg4w8dbw"}

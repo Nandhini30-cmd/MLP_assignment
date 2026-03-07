@@ -1,0 +1,30 @@
+{"time":"2026-03-03T17:38:05.3776362+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T17:38:06.1899518+05:30","level":"INFO","msg":"stream: created new stream","id":"9izvup6f"}
+{"time":"2026-03-03T17:38:06.190554+05:30","level":"INFO","msg":"handler: started","stream_id":"9izvup6f"}
+{"time":"2026-03-03T17:38:06.1974471+05:30","level":"INFO","msg":"stream: started","id":"9izvup6f"}
+{"time":"2026-03-03T17:38:06.1980438+05:30","level":"INFO","msg":"sender: started","stream_id":"9izvup6f"}
+{"time":"2026-03-03T17:38:06.1974471+05:30","level":"INFO","msg":"writer: started","stream_id":"9izvup6f"}
+{"time":"2026-03-03T17:49:35.6013231+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9izvup6f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T17:49:38.5460752+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9izvup6f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T19:04:48.9960818+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9izvup6f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T19:04:58.9358332+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9izvup6f/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T19:08:30.541656+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T19:08:35.5409945+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T19:09:02.6386561+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2026-03-03T19:09:07.5802182+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T19:09:37.0922958+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T19:09:42.2970013+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2026-03-03T19:10:16.106366+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T19:10:22.0166874+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2026-03-03T19:10:33.7632414+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.23:53240->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2026-03-03T19:11:36.8642142+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2026-03-03T19:13:06.8664131+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2026-03-03T19:13:40.9291852+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9izvup6f/file_stream\": context deadline exceeded"}
+{"time":"2026-03-03T19:13:43.0211884+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9izvup6f/file_stream\": read tcp 192.168.1.23:50473->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2026-03-03T19:14:17.9363124+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T19:16:55.0737001+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9izvup6f/file_stream\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T19:17:53.776876+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T19:17:53.9500683+05:30","level":"INFO","msg":"stream: closing","id":"9izvup6f"}
+{"time":"2026-03-03T19:17:53.9506518+05:30","level":"INFO","msg":"handler: closed","stream_id":"9izvup6f"}
+{"time":"2026-03-03T19:17:53.9629851+05:30","level":"INFO","msg":"sender: closed","stream_id":"9izvup6f"}
+{"time":"2026-03-03T19:17:53.9629851+05:30","level":"INFO","msg":"stream: closed","id":"9izvup6f"}

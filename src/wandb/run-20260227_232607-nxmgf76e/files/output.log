@@ -1,0 +1,131 @@
+W&B logging enabled for project: wandb_project=MLP_demo
+Configuration:
+Namespace(dataset='mnist', epochs=30, batch_size=32, loss='cross_entropy', optimizer='momentum', learning_rate=0.01, weight_decay=0.0005, num_layers=3, hidden_size=[128, 64, 32], activation='relu', weight_init='xavier', wandb_project='wandb_project=MLP_demo', model_save_path=None)
+Epoch 1/30
+Epoch 1/1, Loss: 2.3012, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 2/30
+Epoch 1/1, Loss: 2.3012, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 3/30
+Epoch 1/1, Loss: 2.3012, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 4/30
+Epoch 1/1, Loss: 2.3012, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 5/30
+Epoch 1/1, Loss: 2.3011, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 6/30
+Epoch 1/1, Loss: 2.3011, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 7/30
+Epoch 1/1, Loss: 2.3012, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 8/30
+Epoch 1/1, Loss: 2.3011, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 9/30
+Epoch 1/1, Loss: 2.3011, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 10/30
+Epoch 1/1, Loss: 2.3011, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 11/30
+Epoch 1/1, Loss: 2.3011, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 12/30
+Epoch 1/1, Loss: 2.3010, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 13/30
+Epoch 1/1, Loss: 2.3009, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 14/30
+Epoch 1/1, Loss: 2.3008, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 15/30
+Epoch 1/1, Loss: 2.3003, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 16/30
+Epoch 1/1, Loss: 2.2968, Accuracy: 11.24%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.0231
+Epoch 17/30
+Epoch 1/1, Loss: 2.0297, Accuracy: 22.11%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.1061
+Epoch 18/30
+Epoch 1/1, Loss: 1.5287, Accuracy: 38.90%
+C:\Users\Nandhini\AppData\Roaming\Python\Python313\site-packages\sklearn\metrics\_classification.py:1833: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", result.shape[0])
+Test F1:0.3334
+Epoch 19/30
+Epoch 1/1, Loss: 0.8551, Accuracy: 72.09%
+Test F1:0.7160
+Epoch 20/30
+Epoch 1/1, Loss: 0.5918, Accuracy: 82.71%
+Test F1:0.8268
+Epoch 21/30
+Epoch 1/1, Loss: 0.4470, Accuracy: 87.78%
+Test F1:0.8714
+Epoch 22/30
+Epoch 1/1, Loss: 0.3474, Accuracy: 90.72%
+Test F1:0.9024
+Epoch 23/30
+Epoch 1/1, Loss: 0.2958, Accuracy: 92.18%
+Test F1:0.9177
+Epoch 24/30
+Epoch 1/1, Loss: 0.2669, Accuracy: 92.88%
+Test F1:0.9249
+Epoch 25/30
+Epoch 1/1, Loss: 0.2336, Accuracy: 93.88%
+Test F1:0.9296
+Epoch 26/30
+Epoch 1/1, Loss: 0.2067, Accuracy: 94.47%
+Test F1:0.9363
+Epoch 27/30
+Epoch 1/1, Loss: 0.1895, Accuracy: 95.02%
+Test F1:0.9357
+Epoch 28/30
+Epoch 1/1, Loss: 0.1721, Accuracy: 95.48%
+Test F1:0.9416
+Epoch 29/30
+Epoch 1/1, Loss: 0.1645, Accuracy: 95.56%
+Test F1:0.9408
+Epoch 30/30
+Epoch 1/1, Loss: 0.1556, Accuracy: 95.72%
+Test F1:0.9408
+Best model.npy and best_config.json saved in src folder.
+Training complete!

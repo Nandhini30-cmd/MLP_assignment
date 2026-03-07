@@ -1,0 +1,12 @@
+{"time":"2026-02-27T09:33:46.238277+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T09:33:46.8032833+05:30","level":"INFO","msg":"stream: created new stream","id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:46.8032833+05:30","level":"INFO","msg":"handler: started","stream_id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:46.8070337+05:30","level":"INFO","msg":"stream: started","id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:46.8075678+05:30","level":"INFO","msg":"writer: started","stream_id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:46.8075678+05:30","level":"INFO","msg":"sender: started","stream_id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:49.084387+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T09:33:49.724214+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T09:33:49.7351105+05:30","level":"INFO","msg":"stream: closing","id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:49.7351105+05:30","level":"INFO","msg":"handler: closed","stream_id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:49.7369505+05:30","level":"INFO","msg":"sender: closed","stream_id":"lphmkoeq"}
+{"time":"2026-02-27T09:33:49.7369505+05:30","level":"INFO","msg":"stream: closed","id":"lphmkoeq"}

@@ -1,0 +1,52 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.9",
+  "startedAt":  "2026-02-27T17:33:36.978640Z",
+  "args":  [
+    "-d",
+    "mnist",
+    "-e",
+    "30",
+    "-b",
+    "32",
+    "-l",
+    "cross_entropy",
+    "-o",
+    "rmsprop",
+    "-lr",
+    "0.001",
+    "-wd",
+    "0.0",
+    "-nhl",
+    "3",
+    "-sz",
+    "128",
+    "64",
+    "32",
+    "-a",
+    "relu",
+    "-wi",
+    "xavier",
+    "-wp",
+    "my_project"
+  ],
+  "program":  "C:\\Users\\Nandhini\\Downloads\\da6401_assignment_1-main\\da6401_assignment_1-main\\src\\train.py",
+  "codePath":  "train.py",
+  "codePathLocal":  "train.py",
+  "email":  "ic43581@imail.iitm.ac.in",
+  "root":  "C:\\Users\\Nandhini\\Downloads\\da6401_assignment_1-main\\da6401_assignment_1-main\\src",
+  "host":  "Nandhini-M",
+  "executable":  "C:\\Program Files\\Python313\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "258063986688",
+      "used":  "237477474304"
+    }
+  },
+  "memory":  {
+    "total":  "16857817088"
+  },
+  "writerId":  "6cixrdot5rk19734qy4ut0q2vagxprhd"
+}

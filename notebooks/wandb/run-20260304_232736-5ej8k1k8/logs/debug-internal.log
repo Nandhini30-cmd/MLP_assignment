@@ -1,0 +1,10 @@
+{"time":"2026-03-04T23:27:36.3913062+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-04T23:27:54.4278032+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": http2: client conn could not be established"}
+{"time":"2026-03-04T23:28:26.5329994+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2026-03-04T23:29:01.5126812+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-04T23:29:18.395991+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": unexpected EOF"}
+{"time":"2026-03-04T23:29:38.0208629+05:30","level":"INFO","msg":"stream: created new stream","id":"5ej8k1k8"}
+{"time":"2026-03-04T23:29:38.0208629+05:30","level":"INFO","msg":"handler: started","stream_id":"5ej8k1k8"}
+{"time":"2026-03-04T23:29:38.023287+05:30","level":"INFO","msg":"stream: started","id":"5ej8k1k8"}
+{"time":"2026-03-04T23:29:38.023287+05:30","level":"INFO","msg":"sender: started","stream_id":"5ej8k1k8"}
+{"time":"2026-03-04T23:29:38.023287+05:30","level":"INFO","msg":"writer: started","stream_id":"5ej8k1k8"}

@@ -1,0 +1,12 @@
+{"time":"2026-02-27T15:49:55.4703837+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T15:49:56.0285788+05:30","level":"INFO","msg":"stream: created new stream","id":"buphik4h"}
+{"time":"2026-02-27T15:49:56.0285788+05:30","level":"INFO","msg":"handler: started","stream_id":"buphik4h"}
+{"time":"2026-02-27T15:49:56.0304846+05:30","level":"INFO","msg":"stream: started","id":"buphik4h"}
+{"time":"2026-02-27T15:49:56.0312191+05:30","level":"INFO","msg":"writer: started","stream_id":"buphik4h"}
+{"time":"2026-02-27T15:49:56.0312191+05:30","level":"INFO","msg":"sender: started","stream_id":"buphik4h"}
+{"time":"2026-02-27T15:52:02.7991971+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T15:52:03.7299408+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T15:52:03.7391524+05:30","level":"INFO","msg":"stream: closing","id":"buphik4h"}
+{"time":"2026-02-27T15:52:03.7391524+05:30","level":"INFO","msg":"handler: closed","stream_id":"buphik4h"}
+{"time":"2026-02-27T15:52:03.7461559+05:30","level":"INFO","msg":"sender: closed","stream_id":"buphik4h"}
+{"time":"2026-02-27T15:52:03.7461559+05:30","level":"INFO","msg":"stream: closed","id":"buphik4h"}

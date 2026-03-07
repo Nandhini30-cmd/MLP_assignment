@@ -1,0 +1,13 @@
+{"time":"2026-03-04T19:01:53.8075693+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-04T19:02:00.0478821+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-04T19:02:02.8055672+05:30","level":"INFO","msg":"stream: created new stream","id":"zc7kekdf"}
+{"time":"2026-03-04T19:02:02.8060815+05:30","level":"INFO","msg":"handler: started","stream_id":"zc7kekdf"}
+{"time":"2026-03-04T19:02:02.8114207+05:30","level":"INFO","msg":"stream: started","id":"zc7kekdf"}
+{"time":"2026-03-04T19:02:02.8114207+05:30","level":"INFO","msg":"writer: started","stream_id":"zc7kekdf"}
+{"time":"2026-03-04T19:02:02.8114207+05:30","level":"INFO","msg":"sender: started","stream_id":"zc7kekdf"}
+{"time":"2026-03-04T19:03:24.8659591+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-04T19:03:25.2683631+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-04T19:03:25.2877171+05:30","level":"INFO","msg":"stream: closing","id":"zc7kekdf"}
+{"time":"2026-03-04T19:03:25.2877171+05:30","level":"INFO","msg":"handler: closed","stream_id":"zc7kekdf"}
+{"time":"2026-03-04T19:03:25.2953069+05:30","level":"INFO","msg":"sender: closed","stream_id":"zc7kekdf"}
+{"time":"2026-03-04T19:03:25.2953069+05:30","level":"INFO","msg":"stream: closed","id":"zc7kekdf"}

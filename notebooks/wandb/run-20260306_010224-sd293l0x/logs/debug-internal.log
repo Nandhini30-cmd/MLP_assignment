@@ -1,0 +1,16 @@
+{"time":"2026-03-06T01:02:34.3315706+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-06T01:02:34.8716406+05:30","level":"INFO","msg":"stream: created new stream","id":"sd293l0x"}
+{"time":"2026-03-06T01:02:34.8716406+05:30","level":"INFO","msg":"handler: started","stream_id":"sd293l0x"}
+{"time":"2026-03-06T01:02:34.8745222+05:30","level":"INFO","msg":"stream: started","id":"sd293l0x"}
+{"time":"2026-03-06T01:02:34.8751838+05:30","level":"INFO","msg":"writer: started","stream_id":"sd293l0x"}
+{"time":"2026-03-06T01:02:34.8751838+05:30","level":"INFO","msg":"sender: started","stream_id":"sd293l0x"}
+{"time":"2026-03-06T01:38:40.950474+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/sd293l0x/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-06T01:38:42.985275+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/sd293l0x/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-06T11:29:53.97153+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/sd293l0x/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-06T11:30:03.2461413+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/sd293l0x/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-06T11:32:21.6166667+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-06T11:32:23.4687287+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-06T11:32:23.4948449+05:30","level":"INFO","msg":"stream: closing","id":"sd293l0x"}
+{"time":"2026-03-06T11:32:23.4948449+05:30","level":"INFO","msg":"handler: closed","stream_id":"sd293l0x"}
+{"time":"2026-03-06T11:32:23.4965619+05:30","level":"INFO","msg":"sender: closed","stream_id":"sd293l0x"}
+{"time":"2026-03-06T11:32:23.4965619+05:30","level":"INFO","msg":"stream: closed","id":"sd293l0x"}

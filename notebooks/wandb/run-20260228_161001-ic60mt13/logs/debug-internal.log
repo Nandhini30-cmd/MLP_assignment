@@ -1,0 +1,12 @@
+{"time":"2026-02-28T16:10:04.0152005+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T16:10:04.4525691+05:30","level":"INFO","msg":"stream: created new stream","id":"ic60mt13"}
+{"time":"2026-02-28T16:10:04.4525691+05:30","level":"INFO","msg":"handler: started","stream_id":"ic60mt13"}
+{"time":"2026-02-28T16:10:04.4561463+05:30","level":"INFO","msg":"writer: started","stream_id":"ic60mt13"}
+{"time":"2026-02-28T16:10:04.4561463+05:30","level":"INFO","msg":"stream: started","id":"ic60mt13"}
+{"time":"2026-02-28T16:10:04.4567933+05:30","level":"INFO","msg":"sender: started","stream_id":"ic60mt13"}
+{"time":"2026-02-28T16:10:33.2769662+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T16:10:33.6607955+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T16:10:33.6673506+05:30","level":"INFO","msg":"stream: closing","id":"ic60mt13"}
+{"time":"2026-02-28T16:10:33.6673506+05:30","level":"INFO","msg":"handler: closed","stream_id":"ic60mt13"}
+{"time":"2026-02-28T16:10:33.6686809+05:30","level":"INFO","msg":"sender: closed","stream_id":"ic60mt13"}
+{"time":"2026-02-28T16:10:33.6686809+05:30","level":"INFO","msg":"stream: closed","id":"ic60mt13"}

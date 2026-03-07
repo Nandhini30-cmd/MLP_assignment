@@ -1,0 +1,12 @@
+{"time":"2026-02-26T19:47:31.8631861+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T19:47:32.3444833+05:30","level":"INFO","msg":"stream: created new stream","id":"c66huppg"}
+{"time":"2026-02-26T19:47:32.3444833+05:30","level":"INFO","msg":"handler: started","stream_id":"c66huppg"}
+{"time":"2026-02-26T19:47:32.3490821+05:30","level":"INFO","msg":"stream: started","id":"c66huppg"}
+{"time":"2026-02-26T19:47:32.3490821+05:30","level":"INFO","msg":"writer: started","stream_id":"c66huppg"}
+{"time":"2026-02-26T19:47:32.3490821+05:30","level":"INFO","msg":"sender: started","stream_id":"c66huppg"}
+{"time":"2026-02-26T19:47:40.0594988+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T19:47:40.541118+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T19:47:40.5579399+05:30","level":"INFO","msg":"stream: closing","id":"c66huppg"}
+{"time":"2026-02-26T19:47:40.5579399+05:30","level":"INFO","msg":"handler: closed","stream_id":"c66huppg"}
+{"time":"2026-02-26T19:47:40.5595483+05:30","level":"INFO","msg":"sender: closed","stream_id":"c66huppg"}
+{"time":"2026-02-26T19:47:40.5595483+05:30","level":"INFO","msg":"stream: closed","id":"c66huppg"}

@@ -1,0 +1,12 @@
+{"time":"2026-02-26T20:08:45.4889786+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T20:08:46.000726+05:30","level":"INFO","msg":"stream: created new stream","id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:46.000726+05:30","level":"INFO","msg":"handler: started","stream_id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:46.00416+05:30","level":"INFO","msg":"stream: started","id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:46.0047366+05:30","level":"INFO","msg":"writer: started","stream_id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:46.0047366+05:30","level":"INFO","msg":"sender: started","stream_id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:48.3270386+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T20:08:48.7184577+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T20:08:48.7248617+05:30","level":"INFO","msg":"stream: closing","id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:48.7248617+05:30","level":"INFO","msg":"handler: closed","stream_id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:48.7253682+05:30","level":"INFO","msg":"sender: closed","stream_id":"hcpt4gbo"}
+{"time":"2026-02-26T20:08:48.7253682+05:30","level":"INFO","msg":"stream: closed","id":"hcpt4gbo"}

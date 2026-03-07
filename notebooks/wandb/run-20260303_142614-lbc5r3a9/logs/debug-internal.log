@@ -1,0 +1,16 @@
+{"time":"2026-03-03T14:26:17.1731606+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T14:26:17.9011942+05:30","level":"INFO","msg":"stream: created new stream","id":"lbc5r3a9"}
+{"time":"2026-03-03T14:26:17.9023355+05:30","level":"INFO","msg":"handler: started","stream_id":"lbc5r3a9"}
+{"time":"2026-03-03T14:26:17.9075505+05:30","level":"INFO","msg":"stream: started","id":"lbc5r3a9"}
+{"time":"2026-03-03T14:26:17.9075505+05:30","level":"INFO","msg":"writer: started","stream_id":"lbc5r3a9"}
+{"time":"2026-03-03T14:26:17.9075505+05:30","level":"INFO","msg":"sender: started","stream_id":"lbc5r3a9"}
+{"time":"2026-03-03T14:27:28.6630755+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/lbc5r3a9/file_stream\": read tcp 10.42.75.194:60174->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T14:27:51.9157533+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/lbc5r3a9/file_stream\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T14:28:04.4059833+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/lbc5r3a9/file_stream\": dial tcp 35.186.228.49:443: connectex: An established connection was aborted by the software in your host machine."}
+{"time":"2026-03-03T14:28:12.5720497+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/lbc5r3a9/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:29:20.695507+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T14:29:21.170134+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T14:29:21.1870082+05:30","level":"INFO","msg":"stream: closing","id":"lbc5r3a9"}
+{"time":"2026-03-03T14:29:21.1870082+05:30","level":"INFO","msg":"handler: closed","stream_id":"lbc5r3a9"}
+{"time":"2026-03-03T14:29:21.1880487+05:30","level":"INFO","msg":"sender: closed","stream_id":"lbc5r3a9"}
+{"time":"2026-03-03T14:29:21.1880487+05:30","level":"INFO","msg":"stream: closed","id":"lbc5r3a9"}

@@ -1,0 +1,103 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            rarfd9jyltbpmhneo7voyotbhc2bwhsc:
+                args:
+                    - -d
+                    - mnist
+                    - -e
+                    - "30"
+                    - -b
+                    - "32"
+                    - -l
+                    - cross_entropy
+                    - -o
+                    - momentum
+                    - -lr
+                    - "0.01"
+                    - -wd
+                    - "0.0005"
+                    - -nhl
+                    - "3"
+                    - -sz
+                    - "128"
+                    - "64"
+                    - "32"
+                    - -a
+                    - relu
+                    - -wi
+                    - xavier
+                    - -wp
+                    - wandb_project=MLP_demo
+                codePath: train.py
+                codePathLocal: train.py
+                cpu_count: 8
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "258063986688"
+                        used: "237349703680"
+                email: ic43581@imail.iitm.ac.in
+                executable: C:\Program Files\Python313\python.exe
+                host: Nandhini-M
+                memory:
+                    total: "16857817088"
+                os: Windows-11-10.0.26200-SP0
+                program: C:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\src\train.py
+                python: CPython 3.13.9
+                root: C:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\src
+                startedAt: "2026-02-27T17:56:07.578652Z"
+                writerId: rarfd9jyltbpmhneo7voyotbhc2bwhsc
+        m: []
+        python_version: 3.13.9
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "3":
+                - 16
+            "4": 3.13.9
+            "5": 0.25.0
+            "8":
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+activation:
+    value: relu
+batch_size:
+    value: 32
+dataset:
+    value: mnist
+epochs:
+    value: 30
+hidden_size:
+    value:
+        - 128
+        - 64
+        - 32
+learning_rate:
+    value: 0.01
+loss:
+    value: cross_entropy
+model_save_path:
+    value: null
+num_layers:
+    value: 3
+optimizer:
+    value: momentum
+wandb_project:
+    value: wandb_project=MLP_demo
+weight_decay:
+    value: 0.0005
+weight_init:
+    value: xavier

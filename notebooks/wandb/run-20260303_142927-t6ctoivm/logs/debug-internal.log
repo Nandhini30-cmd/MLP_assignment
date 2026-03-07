@@ -1,0 +1,35 @@
+{"time":"2026-03-03T14:29:29.4963066+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T14:29:30.361855+05:30","level":"INFO","msg":"stream: created new stream","id":"t6ctoivm"}
+{"time":"2026-03-03T14:29:30.3678541+05:30","level":"INFO","msg":"stream: started","id":"t6ctoivm"}
+{"time":"2026-03-03T14:29:30.3757733+05:30","level":"INFO","msg":"writer: started","stream_id":"t6ctoivm"}
+{"time":"2026-03-03T14:29:30.3757733+05:30","level":"INFO","msg":"handler: started","stream_id":"t6ctoivm"}
+{"time":"2026-03-03T14:29:30.3763045+05:30","level":"INFO","msg":"sender: started","stream_id":"t6ctoivm"}
+{"time":"2026-03-03T14:29:55.1623407+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.42.75.194:59725->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T14:29:55.1623407+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.42.75.194:59725->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T14:30:27.5697565+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T14:30:27.6628761+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2026-03-03T14:30:53.1444119+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T14:30:53.6616991+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T14:31:22.849434+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T14:31:32.4335642+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2026-03-03T14:31:40.2578943+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:02.4045973+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:02.4045973+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:04.6007303+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:13.5742189+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": unexpected EOF"}
+{"time":"2026-03-03T14:32:17.5037947+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:23.4925397+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:25.1710119+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/t6ctoivm/file_stream\": read tcp 10.42.75.194:59755->35.186.228.49:443: wsarecv: An existing connection was forcibly closed by the remote host."}
+{"time":"2026-03-03T14:32:27.4348973+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/t6ctoivm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:35.5422201+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/t6ctoivm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:36.5795346+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:55.3450659+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/t6ctoivm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:32:55.3454003+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:33:11.3699434+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/t6ctoivm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:33:17.5157136+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T14:34:18.4901031+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T14:34:19.1712985+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T14:34:19.1917781+05:30","level":"INFO","msg":"stream: closing","id":"t6ctoivm"}
+{"time":"2026-03-03T14:34:19.1917781+05:30","level":"INFO","msg":"handler: closed","stream_id":"t6ctoivm"}
+{"time":"2026-03-03T14:34:19.1928505+05:30","level":"INFO","msg":"sender: closed","stream_id":"t6ctoivm"}
+{"time":"2026-03-03T14:34:19.1928505+05:30","level":"INFO","msg":"stream: closed","id":"t6ctoivm"}

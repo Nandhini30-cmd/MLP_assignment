@@ -1,0 +1,12 @@
+{"time":"2026-02-27T16:36:02.4566202+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T16:36:02.9833013+05:30","level":"INFO","msg":"stream: created new stream","id":"wgedtcrm"}
+{"time":"2026-02-27T16:36:02.9833013+05:30","level":"INFO","msg":"handler: started","stream_id":"wgedtcrm"}
+{"time":"2026-02-27T16:36:02.9859419+05:30","level":"INFO","msg":"stream: started","id":"wgedtcrm"}
+{"time":"2026-02-27T16:36:02.9859419+05:30","level":"INFO","msg":"sender: started","stream_id":"wgedtcrm"}
+{"time":"2026-02-27T16:36:02.9867596+05:30","level":"INFO","msg":"writer: started","stream_id":"wgedtcrm"}
+{"time":"2026-02-27T16:37:11.5910961+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T16:37:12.0066876+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T16:37:12.0153825+05:30","level":"INFO","msg":"stream: closing","id":"wgedtcrm"}
+{"time":"2026-02-27T16:37:12.0153825+05:30","level":"INFO","msg":"handler: closed","stream_id":"wgedtcrm"}
+{"time":"2026-02-27T16:37:12.0229996+05:30","level":"INFO","msg":"sender: closed","stream_id":"wgedtcrm"}
+{"time":"2026-02-27T16:37:12.0229996+05:30","level":"INFO","msg":"stream: closed","id":"wgedtcrm"}

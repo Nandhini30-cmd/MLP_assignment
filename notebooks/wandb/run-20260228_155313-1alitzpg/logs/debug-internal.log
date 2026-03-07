@@ -1,0 +1,12 @@
+{"time":"2026-02-28T15:53:15.8104666+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T15:53:16.257554+05:30","level":"INFO","msg":"stream: created new stream","id":"1alitzpg"}
+{"time":"2026-02-28T15:53:16.2581961+05:30","level":"INFO","msg":"handler: started","stream_id":"1alitzpg"}
+{"time":"2026-02-28T15:53:16.261625+05:30","level":"INFO","msg":"stream: started","id":"1alitzpg"}
+{"time":"2026-02-28T15:53:16.261625+05:30","level":"INFO","msg":"writer: started","stream_id":"1alitzpg"}
+{"time":"2026-02-28T15:53:16.261625+05:30","level":"INFO","msg":"sender: started","stream_id":"1alitzpg"}
+{"time":"2026-02-28T15:53:18.4981586+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T15:53:18.8887277+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T15:53:18.8973739+05:30","level":"INFO","msg":"stream: closing","id":"1alitzpg"}
+{"time":"2026-02-28T15:53:18.8973739+05:30","level":"INFO","msg":"handler: closed","stream_id":"1alitzpg"}
+{"time":"2026-02-28T15:53:18.8978833+05:30","level":"INFO","msg":"sender: closed","stream_id":"1alitzpg"}
+{"time":"2026-02-28T15:53:18.8984893+05:30","level":"INFO","msg":"stream: closed","id":"1alitzpg"}

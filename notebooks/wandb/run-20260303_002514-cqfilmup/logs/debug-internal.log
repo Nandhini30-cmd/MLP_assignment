@@ -1,0 +1,12 @@
+{"time":"2026-03-03T00:25:16.6307978+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T00:25:17.0956627+05:30","level":"INFO","msg":"stream: created new stream","id":"cqfilmup"}
+{"time":"2026-03-03T00:25:17.0956627+05:30","level":"INFO","msg":"handler: started","stream_id":"cqfilmup"}
+{"time":"2026-03-03T00:25:17.0975512+05:30","level":"INFO","msg":"stream: started","id":"cqfilmup"}
+{"time":"2026-03-03T00:25:17.0975512+05:30","level":"INFO","msg":"sender: started","stream_id":"cqfilmup"}
+{"time":"2026-03-03T00:25:17.0975512+05:30","level":"INFO","msg":"writer: started","stream_id":"cqfilmup"}
+{"time":"2026-03-03T00:25:20.3415923+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T00:25:20.6848753+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T00:25:20.6994539+05:30","level":"INFO","msg":"stream: closing","id":"cqfilmup"}
+{"time":"2026-03-03T00:25:20.6994539+05:30","level":"INFO","msg":"handler: closed","stream_id":"cqfilmup"}
+{"time":"2026-03-03T00:25:20.7070529+05:30","level":"INFO","msg":"sender: closed","stream_id":"cqfilmup"}
+{"time":"2026-03-03T00:25:20.7070529+05:30","level":"INFO","msg":"stream: closed","id":"cqfilmup"}

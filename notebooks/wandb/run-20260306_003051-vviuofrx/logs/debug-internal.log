@@ -1,0 +1,12 @@
+{"time":"2026-03-06T00:30:51.5087928+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-06T00:30:51.7947025+05:30","level":"INFO","msg":"stream: created new stream","id":"vviuofrx"}
+{"time":"2026-03-06T00:30:51.7947025+05:30","level":"INFO","msg":"handler: started","stream_id":"vviuofrx"}
+{"time":"2026-03-06T00:30:51.7991457+05:30","level":"INFO","msg":"stream: started","id":"vviuofrx"}
+{"time":"2026-03-06T00:30:51.7991457+05:30","level":"INFO","msg":"sender: started","stream_id":"vviuofrx"}
+{"time":"2026-03-06T00:30:51.7991457+05:30","level":"INFO","msg":"writer: started","stream_id":"vviuofrx"}
+{"time":"2026-03-06T00:30:58.583891+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-06T00:30:59.3227395+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-06T00:30:59.3470369+05:30","level":"INFO","msg":"stream: closing","id":"vviuofrx"}
+{"time":"2026-03-06T00:30:59.3470369+05:30","level":"INFO","msg":"handler: closed","stream_id":"vviuofrx"}
+{"time":"2026-03-06T00:30:59.3500377+05:30","level":"INFO","msg":"sender: closed","stream_id":"vviuofrx"}
+{"time":"2026-03-06T00:30:59.3500377+05:30","level":"INFO","msg":"stream: closed","id":"vviuofrx"}

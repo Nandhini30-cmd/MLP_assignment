@@ -1,0 +1,12 @@
+{"time":"2026-03-03T12:15:59.5240236+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T12:16:00.0791341+05:30","level":"INFO","msg":"stream: created new stream","id":"0sslydis"}
+{"time":"2026-03-03T12:16:00.0802269+05:30","level":"INFO","msg":"handler: started","stream_id":"0sslydis"}
+{"time":"2026-03-03T12:16:00.0867583+05:30","level":"INFO","msg":"stream: started","id":"0sslydis"}
+{"time":"2026-03-03T12:16:00.0867583+05:30","level":"INFO","msg":"writer: started","stream_id":"0sslydis"}
+{"time":"2026-03-03T12:16:00.0867583+05:30","level":"INFO","msg":"sender: started","stream_id":"0sslydis"}
+{"time":"2026-03-03T12:20:11.7763516+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T12:20:12.1909623+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T12:20:12.2204891+05:30","level":"INFO","msg":"stream: closing","id":"0sslydis"}
+{"time":"2026-03-03T12:20:12.2216003+05:30","level":"INFO","msg":"handler: closed","stream_id":"0sslydis"}
+{"time":"2026-03-03T12:20:12.2227192+05:30","level":"INFO","msg":"sender: closed","stream_id":"0sslydis"}
+{"time":"2026-03-03T12:20:12.2227192+05:30","level":"INFO","msg":"stream: closed","id":"0sslydis"}

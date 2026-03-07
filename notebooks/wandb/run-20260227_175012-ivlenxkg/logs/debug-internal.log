@@ -1,0 +1,12 @@
+{"time":"2026-02-27T17:50:14.4703+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T17:50:14.9298358+05:30","level":"INFO","msg":"stream: created new stream","id":"ivlenxkg"}
+{"time":"2026-02-27T17:50:14.9298358+05:30","level":"INFO","msg":"handler: started","stream_id":"ivlenxkg"}
+{"time":"2026-02-27T17:50:14.9326522+05:30","level":"INFO","msg":"stream: started","id":"ivlenxkg"}
+{"time":"2026-02-27T17:50:14.9326522+05:30","level":"INFO","msg":"writer: started","stream_id":"ivlenxkg"}
+{"time":"2026-02-27T17:50:14.9326522+05:30","level":"INFO","msg":"sender: started","stream_id":"ivlenxkg"}
+{"time":"2026-02-27T17:52:41.0540903+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T17:52:41.5766958+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T17:52:41.5856937+05:30","level":"INFO","msg":"stream: closing","id":"ivlenxkg"}
+{"time":"2026-02-27T17:52:41.5856937+05:30","level":"INFO","msg":"handler: closed","stream_id":"ivlenxkg"}
+{"time":"2026-02-27T17:52:41.5856937+05:30","level":"INFO","msg":"sender: closed","stream_id":"ivlenxkg"}
+{"time":"2026-02-27T17:52:41.5856937+05:30","level":"INFO","msg":"stream: closed","id":"ivlenxkg"}

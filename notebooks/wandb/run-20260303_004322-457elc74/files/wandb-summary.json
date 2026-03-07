@@ -1,0 +1,1 @@
+{"val_accuracy":0.9712008228336333,"epoch":29,"hidden_size":128,"_step":29,"_timestamp":1.772479130669801e+09,"activation":"sigmoid","learning_rate":0.001,"_runtime":324,"train_loss":0.014618992779955021,"batch_size":32,"weight_init":"xavier","num_hidden_layers":3,"_wandb":{"runtime":324},"optimizer":"rmsprop"}

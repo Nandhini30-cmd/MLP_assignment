@@ -1,0 +1,12 @@
+{"time":"2026-03-03T14:34:24.3232028+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T14:34:25.2154937+05:30","level":"INFO","msg":"stream: created new stream","id":"loc5bzht"}
+{"time":"2026-03-03T14:34:25.2160082+05:30","level":"INFO","msg":"handler: started","stream_id":"loc5bzht"}
+{"time":"2026-03-03T14:34:25.2311755+05:30","level":"INFO","msg":"stream: started","id":"loc5bzht"}
+{"time":"2026-03-03T14:34:25.2311755+05:30","level":"INFO","msg":"sender: started","stream_id":"loc5bzht"}
+{"time":"2026-03-03T14:34:25.2311755+05:30","level":"INFO","msg":"writer: started","stream_id":"loc5bzht"}
+{"time":"2026-03-03T14:38:13.8078986+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T14:38:14.2209539+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T14:38:14.2428952+05:30","level":"INFO","msg":"stream: closing","id":"loc5bzht"}
+{"time":"2026-03-03T14:38:14.2428952+05:30","level":"INFO","msg":"handler: closed","stream_id":"loc5bzht"}
+{"time":"2026-03-03T14:38:14.2440513+05:30","level":"INFO","msg":"sender: closed","stream_id":"loc5bzht"}
+{"time":"2026-03-03T14:38:14.2440513+05:30","level":"INFO","msg":"stream: closed","id":"loc5bzht"}

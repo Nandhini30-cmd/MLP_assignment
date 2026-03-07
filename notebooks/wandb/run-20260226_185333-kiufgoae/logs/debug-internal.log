@@ -1,0 +1,12 @@
+{"time":"2026-02-26T18:53:35.9201647+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T18:53:36.3567533+05:30","level":"INFO","msg":"stream: created new stream","id":"kiufgoae"}
+{"time":"2026-02-26T18:53:36.3575334+05:30","level":"INFO","msg":"handler: started","stream_id":"kiufgoae"}
+{"time":"2026-02-26T18:53:36.3598096+05:30","level":"INFO","msg":"stream: started","id":"kiufgoae"}
+{"time":"2026-02-26T18:53:36.3598096+05:30","level":"INFO","msg":"writer: started","stream_id":"kiufgoae"}
+{"time":"2026-02-26T18:53:36.3598096+05:30","level":"INFO","msg":"sender: started","stream_id":"kiufgoae"}
+{"time":"2026-02-26T18:53:38.6423836+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T18:53:39.0356221+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T18:53:39.0495444+05:30","level":"INFO","msg":"stream: closing","id":"kiufgoae"}
+{"time":"2026-02-26T18:53:39.0495444+05:30","level":"INFO","msg":"handler: closed","stream_id":"kiufgoae"}
+{"time":"2026-02-26T18:53:39.0595661+05:30","level":"INFO","msg":"sender: closed","stream_id":"kiufgoae"}
+{"time":"2026-02-26T18:53:39.0595661+05:30","level":"INFO","msg":"stream: closed","id":"kiufgoae"}

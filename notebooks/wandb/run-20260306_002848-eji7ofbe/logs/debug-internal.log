@@ -1,0 +1,14 @@
+{"time":"2026-03-06T00:28:48.859337+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-06T00:28:49.1532956+05:30","level":"INFO","msg":"stream: created new stream","id":"eji7ofbe"}
+{"time":"2026-03-06T00:28:49.1532956+05:30","level":"INFO","msg":"handler: started","stream_id":"eji7ofbe"}
+{"time":"2026-03-06T00:28:49.1772246+05:30","level":"INFO","msg":"stream: started","id":"eji7ofbe"}
+{"time":"2026-03-06T00:28:49.1772246+05:30","level":"INFO","msg":"sender: started","stream_id":"eji7ofbe"}
+{"time":"2026-03-06T00:28:49.1780586+05:30","level":"INFO","msg":"writer: started","stream_id":"eji7ofbe"}
+{"time":"2026-03-06T00:29:15.0882417+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.23:63552->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-06T00:29:15.0882417+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.23:63552->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-06T00:29:35.5902474+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-06T00:29:49.7698644+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-06T00:29:49.774913+05:30","level":"INFO","msg":"stream: closing","id":"eji7ofbe"}
+{"time":"2026-03-06T00:29:49.774913+05:30","level":"INFO","msg":"handler: closed","stream_id":"eji7ofbe"}
+{"time":"2026-03-06T00:29:49.777114+05:30","level":"INFO","msg":"sender: closed","stream_id":"eji7ofbe"}
+{"time":"2026-03-06T00:29:49.777114+05:30","level":"INFO","msg":"stream: closed","id":"eji7ofbe"}

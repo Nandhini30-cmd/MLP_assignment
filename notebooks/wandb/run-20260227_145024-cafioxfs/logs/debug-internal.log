@@ -1,0 +1,12 @@
+{"time":"2026-02-27T14:50:26.9028114+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T14:50:27.3890352+05:30","level":"INFO","msg":"stream: created new stream","id":"cafioxfs"}
+{"time":"2026-02-27T14:50:27.3897501+05:30","level":"INFO","msg":"handler: started","stream_id":"cafioxfs"}
+{"time":"2026-02-27T14:50:27.3930925+05:30","level":"INFO","msg":"stream: started","id":"cafioxfs"}
+{"time":"2026-02-27T14:50:27.3930925+05:30","level":"INFO","msg":"writer: started","stream_id":"cafioxfs"}
+{"time":"2026-02-27T14:50:27.3930925+05:30","level":"INFO","msg":"sender: started","stream_id":"cafioxfs"}
+{"time":"2026-02-27T14:51:15.3078608+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T14:51:15.7230383+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T14:51:15.7371342+05:30","level":"INFO","msg":"stream: closing","id":"cafioxfs"}
+{"time":"2026-02-27T14:51:15.7371342+05:30","level":"INFO","msg":"handler: closed","stream_id":"cafioxfs"}
+{"time":"2026-02-27T14:51:15.7417374+05:30","level":"INFO","msg":"sender: closed","stream_id":"cafioxfs"}
+{"time":"2026-02-27T14:51:15.7417374+05:30","level":"INFO","msg":"stream: closed","id":"cafioxfs"}

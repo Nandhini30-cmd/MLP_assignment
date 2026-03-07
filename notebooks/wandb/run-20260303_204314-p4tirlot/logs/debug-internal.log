@@ -1,0 +1,12 @@
+{"time":"2026-03-03T20:43:17.2148294+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T20:43:17.8688163+05:30","level":"INFO","msg":"stream: created new stream","id":"p4tirlot"}
+{"time":"2026-03-03T20:43:17.8694438+05:30","level":"INFO","msg":"handler: started","stream_id":"p4tirlot"}
+{"time":"2026-03-03T20:43:17.8734757+05:30","level":"INFO","msg":"stream: started","id":"p4tirlot"}
+{"time":"2026-03-03T20:43:17.8734757+05:30","level":"INFO","msg":"sender: started","stream_id":"p4tirlot"}
+{"time":"2026-03-03T20:43:17.8734757+05:30","level":"INFO","msg":"writer: started","stream_id":"p4tirlot"}
+{"time":"2026-03-03T20:44:55.079684+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T20:44:55.4871975+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T20:44:55.4962887+05:30","level":"INFO","msg":"stream: closing","id":"p4tirlot"}
+{"time":"2026-03-03T20:44:55.4962887+05:30","level":"INFO","msg":"handler: closed","stream_id":"p4tirlot"}
+{"time":"2026-03-03T20:44:55.4975903+05:30","level":"INFO","msg":"sender: closed","stream_id":"p4tirlot"}
+{"time":"2026-03-03T20:44:55.4975903+05:30","level":"INFO","msg":"stream: closed","id":"p4tirlot"}

@@ -1,0 +1,24 @@
+{
+  "os":  "Windows-11-10.0.26200-SP0",
+  "python":  "CPython 3.13.9",
+  "startedAt":  "2026-03-04T13:57:44.394305Z",
+  "program":  "c:\\Users\\Nandhini\\Downloads\\da6401_assignment_1-main\\da6401_assignment_1-main\\notebooks\\assignment_report.ipynb",
+  "codePath":  "c:\\Users\\Nandhini\\Downloads\\da6401_assignment_1-main\\da6401_assignment_1-main\\notebooks\\assignment_report.ipynb",
+  "codePathLocal":  "assignment_report.ipynb",
+  "email":  "ic43581@imail.iitm.ac.in",
+  "root":  "c:\\Users\\Nandhini\\Downloads\\da6401_assignment_1-main\\da6401_assignment_1-main\\notebooks",
+  "host":  "Nandhini-M",
+  "executable":  "c:\\Program Files\\Python313\\python.exe",
+  "cpu_count":  8,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "258063986688",
+      "used":  "216889733120"
+    }
+  },
+  "memory":  {
+    "total":  "16857817088"
+  },
+  "writerId":  "h1bpu3m26dn8lcsdpn8lzrlyeyci7iih"
+}

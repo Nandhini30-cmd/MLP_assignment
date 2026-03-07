@@ -1,0 +1,12 @@
+{"time":"2026-02-26T19:37:40.1953429+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-26T19:37:40.8856281+05:30","level":"INFO","msg":"stream: created new stream","id":"lue23adj"}
+{"time":"2026-02-26T19:37:40.8864096+05:30","level":"INFO","msg":"handler: started","stream_id":"lue23adj"}
+{"time":"2026-02-26T19:37:40.8930621+05:30","level":"INFO","msg":"stream: started","id":"lue23adj"}
+{"time":"2026-02-26T19:37:40.8930621+05:30","level":"INFO","msg":"sender: started","stream_id":"lue23adj"}
+{"time":"2026-02-26T19:37:40.8930621+05:30","level":"INFO","msg":"writer: started","stream_id":"lue23adj"}
+{"time":"2026-02-26T19:37:43.3409248+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-26T19:37:43.756679+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-26T19:37:43.7800381+05:30","level":"INFO","msg":"stream: closing","id":"lue23adj"}
+{"time":"2026-02-26T19:37:43.7800381+05:30","level":"INFO","msg":"handler: closed","stream_id":"lue23adj"}
+{"time":"2026-02-26T19:37:43.7881629+05:30","level":"INFO","msg":"sender: closed","stream_id":"lue23adj"}
+{"time":"2026-02-26T19:37:43.7888956+05:30","level":"INFO","msg":"stream: closed","id":"lue23adj"}

@@ -1,0 +1,16 @@
+{"time":"2026-03-04T23:54:40.8032587+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-04T23:54:41.55247+05:30","level":"INFO","msg":"stream: created new stream","id":"9ng6djue"}
+{"time":"2026-03-04T23:54:41.55247+05:30","level":"INFO","msg":"handler: started","stream_id":"9ng6djue"}
+{"time":"2026-03-04T23:54:41.55578+05:30","level":"INFO","msg":"stream: started","id":"9ng6djue"}
+{"time":"2026-03-04T23:54:41.55578+05:30","level":"INFO","msg":"writer: started","stream_id":"9ng6djue"}
+{"time":"2026-03-04T23:54:41.5562882+05:30","level":"INFO","msg":"sender: started","stream_id":"9ng6djue"}
+{"time":"2026-03-05T01:25:31.9162738+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9ng6djue/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-05T01:25:34.0006668+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9ng6djue/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-05T09:38:10.5694281+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9ng6djue/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-05T15:20:14.5289638+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/9ng6djue/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-05T16:07:02.5598705+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-05T16:07:03.079537+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-05T16:07:03.1179506+05:30","level":"INFO","msg":"stream: closing","id":"9ng6djue"}
+{"time":"2026-03-05T16:07:03.1179506+05:30","level":"INFO","msg":"handler: closed","stream_id":"9ng6djue"}
+{"time":"2026-03-05T16:07:03.1184937+05:30","level":"INFO","msg":"sender: closed","stream_id":"9ng6djue"}
+{"time":"2026-03-05T16:07:03.1184937+05:30","level":"INFO","msg":"stream: closed","id":"9ng6djue"}

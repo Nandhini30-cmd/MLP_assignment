@@ -1,0 +1,12 @@
+{"time":"2026-02-27T17:34:58.4107849+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T17:34:58.9668839+05:30","level":"INFO","msg":"stream: created new stream","id":"pdc19vfc"}
+{"time":"2026-02-27T17:34:58.9668839+05:30","level":"INFO","msg":"handler: started","stream_id":"pdc19vfc"}
+{"time":"2026-02-27T17:34:58.97257+05:30","level":"INFO","msg":"stream: started","id":"pdc19vfc"}
+{"time":"2026-02-27T17:34:58.97257+05:30","level":"INFO","msg":"writer: started","stream_id":"pdc19vfc"}
+{"time":"2026-02-27T17:34:58.97257+05:30","level":"INFO","msg":"sender: started","stream_id":"pdc19vfc"}
+{"time":"2026-02-27T17:37:03.9908669+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T17:37:04.5092111+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T17:37:04.5282545+05:30","level":"INFO","msg":"stream: closing","id":"pdc19vfc"}
+{"time":"2026-02-27T17:37:04.5282545+05:30","level":"INFO","msg":"handler: closed","stream_id":"pdc19vfc"}
+{"time":"2026-02-27T17:37:04.5364513+05:30","level":"INFO","msg":"sender: closed","stream_id":"pdc19vfc"}
+{"time":"2026-02-27T17:37:04.5364513+05:30","level":"INFO","msg":"stream: closed","id":"pdc19vfc"}

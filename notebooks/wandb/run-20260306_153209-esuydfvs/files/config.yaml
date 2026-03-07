@@ -1,0 +1,71 @@
+_wandb:
+    value:
+        cli_version: 0.25.0
+        e:
+            hh85f4bv0arwaih83szygmzuadcmbo2g:
+                codePath: c:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\notebooks\assignment_report.ipynb
+                codePathLocal: assignment_report.ipynb
+                cpu_count: 8
+                cpu_count_logical: 12
+                disk:
+                    /:
+                        total: "258063986688"
+                        used: "214927392768"
+                email: ic43581@imail.iitm.ac.in
+                executable: c:\Program Files\Python313\python.exe
+                host: Nandhini-M
+                memory:
+                    total: "16857817088"
+                os: Windows-11-10.0.26200-SP0
+                program: c:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\notebooks\assignment_report.ipynb
+                python: CPython 3.13.9
+                root: c:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\notebooks
+                startedAt: "2026-03-06T10:02:09.362705Z"
+                writerId: hh85f4bv0arwaih83szygmzuadcmbo2g
+        m: []
+        python_version: 3.13.9
+        t:
+            "1":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "2":
+                - 2
+                - 3
+                - 5
+                - 49
+                - 53
+            "3":
+                - 2
+                - 13
+                - 16
+            "4": 3.13.9
+            "5": 0.25.0
+            "8":
+                - 1
+                - 3
+            "12": 0.25.0
+            "13": windows-amd64
+activation:
+    value: relu
+batch_size:
+    value: 64
+epochs:
+    value: 100
+hidden_size:
+    value:
+        - 128
+        - 128
+        - 128
+learning_rate:
+    value: 0.01
+loss_type:
+    value: mse
+num_hidden_layers:
+    value: 3
+optimizer:
+    value: sgd
+weight_init:
+    value: xavier

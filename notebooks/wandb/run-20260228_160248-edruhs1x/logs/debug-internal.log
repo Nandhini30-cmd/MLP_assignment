@@ -1,0 +1,12 @@
+{"time":"2026-02-28T16:02:50.8951363+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T16:02:51.3454735+05:30","level":"INFO","msg":"stream: created new stream","id":"edruhs1x"}
+{"time":"2026-02-28T16:02:51.3461921+05:30","level":"INFO","msg":"handler: started","stream_id":"edruhs1x"}
+{"time":"2026-02-28T16:02:51.3502641+05:30","level":"INFO","msg":"stream: started","id":"edruhs1x"}
+{"time":"2026-02-28T16:02:51.3502641+05:30","level":"INFO","msg":"writer: started","stream_id":"edruhs1x"}
+{"time":"2026-02-28T16:02:51.3502641+05:30","level":"INFO","msg":"sender: started","stream_id":"edruhs1x"}
+{"time":"2026-02-28T16:03:13.3655649+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T16:03:13.8815415+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T16:03:13.888094+05:30","level":"INFO","msg":"stream: closing","id":"edruhs1x"}
+{"time":"2026-02-28T16:03:13.888094+05:30","level":"INFO","msg":"handler: closed","stream_id":"edruhs1x"}
+{"time":"2026-02-28T16:03:13.888094+05:30","level":"INFO","msg":"sender: closed","stream_id":"edruhs1x"}
+{"time":"2026-02-28T16:03:13.888094+05:30","level":"INFO","msg":"stream: closed","id":"edruhs1x"}

@@ -1,0 +1,12 @@
+{"time":"2026-02-28T18:50:52.7918745+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T18:50:53.4139673+05:30","level":"INFO","msg":"stream: created new stream","id":"idr2jdeu"}
+{"time":"2026-02-28T18:50:53.4139673+05:30","level":"INFO","msg":"handler: started","stream_id":"idr2jdeu"}
+{"time":"2026-02-28T18:50:53.4196091+05:30","level":"INFO","msg":"stream: started","id":"idr2jdeu"}
+{"time":"2026-02-28T18:50:53.4203289+05:30","level":"INFO","msg":"writer: started","stream_id":"idr2jdeu"}
+{"time":"2026-02-28T18:50:53.4203289+05:30","level":"INFO","msg":"sender: started","stream_id":"idr2jdeu"}
+{"time":"2026-02-28T18:51:39.0190226+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T18:51:39.4323623+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T18:51:39.4390995+05:30","level":"INFO","msg":"stream: closing","id":"idr2jdeu"}
+{"time":"2026-02-28T18:51:39.4390995+05:30","level":"INFO","msg":"handler: closed","stream_id":"idr2jdeu"}
+{"time":"2026-02-28T18:51:39.440958+05:30","level":"INFO","msg":"sender: closed","stream_id":"idr2jdeu"}
+{"time":"2026-02-28T18:51:39.4416854+05:30","level":"INFO","msg":"stream: closed","id":"idr2jdeu"}

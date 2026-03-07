@@ -1,0 +1,12 @@
+{"time":"2026-03-04T23:06:18.994372+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-04T23:06:19.9663012+05:30","level":"INFO","msg":"stream: created new stream","id":"fmapi11q"}
+{"time":"2026-03-04T23:06:19.9663012+05:30","level":"INFO","msg":"handler: started","stream_id":"fmapi11q"}
+{"time":"2026-03-04T23:06:19.9820216+05:30","level":"INFO","msg":"stream: started","id":"fmapi11q"}
+{"time":"2026-03-04T23:06:19.9823716+05:30","level":"INFO","msg":"sender: started","stream_id":"fmapi11q"}
+{"time":"2026-03-04T23:06:19.9823716+05:30","level":"INFO","msg":"writer: started","stream_id":"fmapi11q"}
+{"time":"2026-03-04T23:07:00.8357202+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-04T23:07:01.4906475+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-04T23:07:01.5005712+05:30","level":"INFO","msg":"stream: closing","id":"fmapi11q"}
+{"time":"2026-03-04T23:07:01.5005712+05:30","level":"INFO","msg":"handler: closed","stream_id":"fmapi11q"}
+{"time":"2026-03-04T23:07:01.5089564+05:30","level":"INFO","msg":"sender: closed","stream_id":"fmapi11q"}
+{"time":"2026-03-04T23:07:01.5089564+05:30","level":"INFO","msg":"stream: closed","id":"fmapi11q"}

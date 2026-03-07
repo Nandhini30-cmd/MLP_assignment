@@ -1,0 +1,12 @@
+{"time":"2026-02-28T20:04:30.2997799+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T20:04:30.7907326+05:30","level":"INFO","msg":"stream: created new stream","id":"umpqiekk"}
+{"time":"2026-02-28T20:04:30.7922353+05:30","level":"INFO","msg":"handler: started","stream_id":"umpqiekk"}
+{"time":"2026-02-28T20:04:30.7961141+05:30","level":"INFO","msg":"stream: started","id":"umpqiekk"}
+{"time":"2026-02-28T20:04:30.7961141+05:30","level":"INFO","msg":"sender: started","stream_id":"umpqiekk"}
+{"time":"2026-02-28T20:04:30.7961141+05:30","level":"INFO","msg":"writer: started","stream_id":"umpqiekk"}
+{"time":"2026-02-28T20:06:18.9224438+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T20:06:19.3346866+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T20:06:19.34414+05:30","level":"INFO","msg":"stream: closing","id":"umpqiekk"}
+{"time":"2026-02-28T20:06:19.34414+05:30","level":"INFO","msg":"handler: closed","stream_id":"umpqiekk"}
+{"time":"2026-02-28T20:06:19.3471925+05:30","level":"INFO","msg":"sender: closed","stream_id":"umpqiekk"}
+{"time":"2026-02-28T20:06:19.3471925+05:30","level":"INFO","msg":"stream: closed","id":"umpqiekk"}

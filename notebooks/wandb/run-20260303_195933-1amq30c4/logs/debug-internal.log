@@ -1,0 +1,15 @@
+{"time":"2026-03-03T19:59:35.4990682+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-03-03T19:59:36.2603169+05:30","level":"INFO","msg":"stream: created new stream","id":"1amq30c4"}
+{"time":"2026-03-03T19:59:36.2603169+05:30","level":"INFO","msg":"handler: started","stream_id":"1amq30c4"}
+{"time":"2026-03-03T19:59:36.2657051+05:30","level":"INFO","msg":"stream: started","id":"1amq30c4"}
+{"time":"2026-03-03T19:59:36.266321+05:30","level":"INFO","msg":"writer: started","stream_id":"1amq30c4"}
+{"time":"2026-03-03T19:59:36.266321+05:30","level":"INFO","msg":"sender: started","stream_id":"1amq30c4"}
+{"time":"2026-03-03T20:11:02.3849221+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/1amq30c4/file_stream\": read tcp 192.168.1.23:57909->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2026-03-03T20:11:04.8754916+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/1amq30c4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T20:11:09.4092962+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/nandhini-ic43581-iit-madras/mnist_sweep/1amq30c4/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2026-03-03T20:11:28.8084777+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-03-03T20:11:29.3171357+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-03-03T20:11:29.3861222+05:30","level":"INFO","msg":"stream: closing","id":"1amq30c4"}
+{"time":"2026-03-03T20:11:29.3866919+05:30","level":"INFO","msg":"handler: closed","stream_id":"1amq30c4"}
+{"time":"2026-03-03T20:11:29.3907727+05:30","level":"INFO","msg":"sender: closed","stream_id":"1amq30c4"}
+{"time":"2026-03-03T20:11:29.3907727+05:30","level":"INFO","msg":"stream: closed","id":"1amq30c4"}

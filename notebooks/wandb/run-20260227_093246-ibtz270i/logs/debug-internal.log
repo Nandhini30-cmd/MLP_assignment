@@ -1,0 +1,12 @@
+{"time":"2026-02-27T09:32:49.3142822+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T09:32:50.3288081+05:30","level":"INFO","msg":"stream: created new stream","id":"ibtz270i"}
+{"time":"2026-02-27T09:32:50.3293985+05:30","level":"INFO","msg":"handler: started","stream_id":"ibtz270i"}
+{"time":"2026-02-27T09:32:50.3328239+05:30","level":"INFO","msg":"stream: started","id":"ibtz270i"}
+{"time":"2026-02-27T09:32:50.3328239+05:30","level":"INFO","msg":"sender: started","stream_id":"ibtz270i"}
+{"time":"2026-02-27T09:32:50.3328239+05:30","level":"INFO","msg":"writer: started","stream_id":"ibtz270i"}
+{"time":"2026-02-27T09:33:00.1327185+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T09:33:00.5985133+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T09:33:00.6034502+05:30","level":"INFO","msg":"stream: closing","id":"ibtz270i"}
+{"time":"2026-02-27T09:33:00.6034502+05:30","level":"INFO","msg":"handler: closed","stream_id":"ibtz270i"}
+{"time":"2026-02-27T09:33:00.6055405+05:30","level":"INFO","msg":"sender: closed","stream_id":"ibtz270i"}
+{"time":"2026-02-27T09:33:00.6055405+05:30","level":"INFO","msg":"stream: closed","id":"ibtz270i"}

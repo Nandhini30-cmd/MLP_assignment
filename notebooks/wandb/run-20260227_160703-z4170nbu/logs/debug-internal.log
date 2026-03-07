@@ -1,0 +1,12 @@
+{"time":"2026-02-27T16:07:05.7983072+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-27T16:07:06.2469316+05:30","level":"INFO","msg":"stream: created new stream","id":"z4170nbu"}
+{"time":"2026-02-27T16:07:06.2474601+05:30","level":"INFO","msg":"handler: started","stream_id":"z4170nbu"}
+{"time":"2026-02-27T16:07:06.2493263+05:30","level":"INFO","msg":"stream: started","id":"z4170nbu"}
+{"time":"2026-02-27T16:07:06.2493263+05:30","level":"INFO","msg":"writer: started","stream_id":"z4170nbu"}
+{"time":"2026-02-27T16:07:06.2493263+05:30","level":"INFO","msg":"sender: started","stream_id":"z4170nbu"}
+{"time":"2026-02-27T16:08:05.2593663+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-27T16:08:05.8798956+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-27T16:08:05.8902296+05:30","level":"INFO","msg":"stream: closing","id":"z4170nbu"}
+{"time":"2026-02-27T16:08:05.8902296+05:30","level":"INFO","msg":"handler: closed","stream_id":"z4170nbu"}
+{"time":"2026-02-27T16:08:05.8984297+05:30","level":"INFO","msg":"sender: closed","stream_id":"z4170nbu"}
+{"time":"2026-02-27T16:08:05.8984297+05:30","level":"INFO","msg":"stream: closed","id":"z4170nbu"}

@@ -1,0 +1,12 @@
+{"time":"2026-02-28T19:39:34.348327+05:30","level":"INFO","msg":"stream: starting","core version":"0.25.0"}
+{"time":"2026-02-28T19:39:34.8226195+05:30","level":"INFO","msg":"stream: created new stream","id":"kdj100kv"}
+{"time":"2026-02-28T19:39:34.8226195+05:30","level":"INFO","msg":"handler: started","stream_id":"kdj100kv"}
+{"time":"2026-02-28T19:39:34.8249808+05:30","level":"INFO","msg":"stream: started","id":"kdj100kv"}
+{"time":"2026-02-28T19:39:34.8249808+05:30","level":"INFO","msg":"writer: started","stream_id":"kdj100kv"}
+{"time":"2026-02-28T19:39:34.8249808+05:30","level":"INFO","msg":"sender: started","stream_id":"kdj100kv"}
+{"time":"2026-02-28T19:40:39.0288557+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-02-28T19:40:39.4425839+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-02-28T19:40:39.4497795+05:30","level":"INFO","msg":"stream: closing","id":"kdj100kv"}
+{"time":"2026-02-28T19:40:39.4497795+05:30","level":"INFO","msg":"handler: closed","stream_id":"kdj100kv"}
+{"time":"2026-02-28T19:40:39.4531536+05:30","level":"INFO","msg":"sender: closed","stream_id":"kdj100kv"}
+{"time":"2026-02-28T19:40:39.4531536+05:30","level":"INFO","msg":"stream: closed","id":"kdj100kv"}

@@ -1,0 +1,39 @@
+2026-03-05 16:11:35,071 INFO    MainThread:26684 [wandb_init.py:setup_run_log_directory():717] Logging user logs to c:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\notebooks\wandb\run-20260305_161135-9wwioj4v\logs\debug.log
+2026-03-05 16:11:35,072 INFO    MainThread:26684 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to c:\Users\Nandhini\Downloads\da6401_assignment_1-main\da6401_assignment_1-main\notebooks\wandb\run-20260305_161135-9wwioj4v\logs\debug-internal.log
+2026-03-05 16:11:35,072 INFO    MainThread:26684 [wandb_init.py:init():844] calling init triggers
+2026-03-05 16:11:35,073 INFO    MainThread:26684 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-03-05 16:11:37,114 INFO    MainThread:26684 [wandb_init.py:init():892] starting backend
+2026-03-05 16:11:37,114 INFO    MainThread:26684 [wandb_init.py:init():895] sending inform_init request
+2026-03-05 16:11:37,120 INFO    MainThread:26684 [wandb_init.py:init():903] backend started and connected
+2026-03-05 16:11:37,122 INFO    MainThread:26684 [wandb_run.py:_label_probe_notebook():1333] probe notebook
+2026-03-05 16:11:37,153 INFO    MainThread:26684 [wandb_run.py:_label_probe_notebook():1343] Unable to probe notebook: 'charmap' codec can't decode byte 0x81 in position 150205: character maps to <undefined>
+2026-03-05 16:11:37,155 INFO    MainThread:26684 [wandb_init.py:init():973] updated telemetry
+2026-03-05 16:11:37,158 INFO    MainThread:26684 [wandb_init.py:init():997] communicating run to backend with 90.0 second timeout
+2026-03-05 16:11:38,342 INFO    MainThread:26684 [wandb_init.py:init():1042] starting run threads in backend
+2026-03-05 16:11:38,693 INFO    MainThread:26684 [wandb_run.py:_console_start():2524] atexit reg
+2026-03-05 16:11:38,694 INFO    MainThread:26684 [wandb_run.py:_redirect():2373] redirect: wrap_raw
+2026-03-05 16:11:38,694 INFO    MainThread:26684 [wandb_run.py:_redirect():2442] Wrapping output streams.
+2026-03-05 16:11:38,694 INFO    MainThread:26684 [wandb_run.py:_redirect():2465] Redirects installed.
+2026-03-05 16:11:38,699 INFO    MainThread:26684 [wandb_init.py:init():1082] run started, returning control to user process
+2026-03-05 16:11:38,700 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set batch_size = 64 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,701 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb batch_size 64 None
+2026-03-05 16:11:38,703 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set optimizer = sgd - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,703 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb optimizer sgd None
+2026-03-05 16:11:38,704 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set learning_rate = 0.01 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,705 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb learning_rate 0.01 None
+2026-03-05 16:11:38,706 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set num_hidden_layers = 3 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,707 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb num_hidden_layers 3 None
+2026-03-05 16:11:38,709 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set hidden_size = 128 - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,709 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb hidden_size 128 None
+2026-03-05 16:11:38,711 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set activation = relu - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,712 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb activation relu None
+2026-03-05 16:11:38,713 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set weight_init = xavier - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,713 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb weight_init xavier None
+2026-03-05 16:11:38,714 INFO    MainThread:26684 [wandb_config.py:__setitem__():155] [no run ID] config set loss = mse - <bound method Run._config_callback of <wandb.sdk.wandb_run.Run object at 0x000001889E85E490>>
+2026-03-05 16:11:38,714 INFO    MainThread:26684 [wandb_run.py:_config_callback():1403] config_cb loss mse None
+2026-03-05 16:12:26,884 INFO    MainThread:26684 [wandb_run.py:_finish():2291] finishing run nandhini-ic43581-iit-madras/mnist_sweep/9wwioj4v
+2026-03-05 16:12:26,886 INFO    MainThread:26684 [wandb_run.py:_atexit_cleanup():2490] got exitcode: 0
+2026-03-05 16:12:26,888 INFO    MainThread:26684 [wandb_run.py:_restore():2472] restore
+2026-03-05 16:12:26,888 INFO    MainThread:26684 [wandb_run.py:_restore():2478] restore done
+2026-03-05 16:12:29,435 INFO    MainThread:26684 [wandb_run.py:_footer_sync_info():3868] logging synced files
