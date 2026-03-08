@@ -60,7 +60,7 @@ class NeuralLayer:
         # Gradient w.r.t input (to pass to previous layer)
         dX = np.dot(dZ, self.W.T)
 
-        return dX
+        return dX, (self.grad_W, self.grad_b)
         
 if __name__ == "__main__":
     layer = NeuralLayer(5, 3)

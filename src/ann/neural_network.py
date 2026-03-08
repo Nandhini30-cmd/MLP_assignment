@@ -88,7 +88,12 @@ class NeuralNetwork:
         
         # Backpropagate through layers in reverse order
         for layer in reversed(self.layers):
-            dA = layer.backward(dA)
+            result = layer.backward(dA)
+            if isinstance(result, tuple):
+                dA, _ = result
+            else:
+                dA = result
+            
         return dA
         
     def update_weights(self):
