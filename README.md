@@ -100,6 +100,13 @@ python src/inference.py -d mnist -b 32 -nhl 3 -sz 128 64 32 -a relu -l cross_ent
 Output includes  accuracy, F1 score, precision and recall.
 
 ---
+## Running the Test Script
+
+Run the following command to evaluate the trained model:
+
+```bash
+python src/test.py -d mnist -b 32 -nhl 3 -sz 128 64 32 -a relu -m best_model.npy
+```
 
 ## Experiments (W&B Report)
 
@@ -171,6 +178,7 @@ Matplotlib — Plotting & visualizations
 
 
 ---
+
 
 
 ## Author

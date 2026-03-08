@@ -8,19 +8,19 @@ from utils.data_loader import load_data
 
 
 def parse_arguments():
-    parser = argparse.ArgumentParser(description='Test a trained neural network')
-    parser.add_argument("-d", "--dataset", type=str, choices=['mnist', 'fashion_mnist'], help="Dataset to evaluate on")
-    parser.add_argument("-b", "--batch_size", type=int, help="Batch size for inference")
-    parser.add_argument("-nhl", "--num_layers", type=int, help="Number of hidden layers")
-    parser.add_argument("-sz", "--hidden_size", type=int, nargs="+", help="Number of neurons in each hidden layer")
-    parser.add_argument("-a", "--activation", type=str, choices=["relu", "sigmoid", "tanh"], help="Activation function")
-    parser.add_argument("-l", "--loss", type=str, choices=["mse", "cross_entropy"], help="Loss function")
-    parser.add_argument("-o", "--optimizer", type=str, choices=['sgd', 'momentum', 'rmsprop', 'nag'], help="Optimizer")
-    parser.add_argument("-lr", "--learning_rate", type=float, help="Learning rate")
-    parser.add_argument("-wd", "--weight_decay", type=float, help="Weight decay")
-    parser.add_argument("-w_i", "--weight_init", type=str, choices=["random", "xavier"], help="Weight initialization")
-    parser.add_argument("-w_p", "--wandb_project", type=str, help="W&B project name")
-    parser.add_argument("-m", "--model_path", type=str, help="Path to saved model weights")
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-d", "--dataset", type=str, choices=['mnist', 'fashion_mnist'], default=None)
+    parser.add_argument("-b", "--batch_size", type=int, default=None)
+    parser.add_argument("-nhl", "--num_layers", type=int, default=None)
+    parser.add_argument("-sz", "--hidden_size", type=int, nargs="+", default=None)
+    parser.add_argument("-a", "--activation", type=str, choices=["relu", "sigmoid", "tanh"], default=None)
+    parser.add_argument("-l", "--loss", type=str, choices=["mse", "cross_entropy"], default=None)
+    parser.add_argument("-o", "--optimizer", type=str, choices=['sgd', 'momentum', 'rmsprop', 'nag'], default=None)
+    parser.add_argument("-lr", "--learning_rate", type=float, default=None)
+    parser.add_argument("-wd", "--weight_decay", type=float, default=None)
+    parser.add_argument("-w_i", "--weight_init", type=str, choices=["random", "xavier"], default=None)
+    parser.add_argument("-w_p", "--wandb_project", type=str, default=None)
+    parser.add_argument("-m", "--model_path", type=str, default=None)
     return parser.parse_args()
 
 

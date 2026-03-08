@@ -82,9 +82,9 @@ class NeuralNetwork:
         Returns:
             return grad_w, grad_b
         """
-        self.loss_fn.forward()
+        loss = self.loss_fn.forward(y_pred,y_true)
         # Compute loss gradient
-        dA = self.loss_fn.backward(y_pred, y_true)
+        dA = self.loss_fn.backward()
         
         # Backpropagate through layers in reverse order
         for layer in reversed(self.layers):
@@ -124,9 +124,7 @@ class NeuralNetwork:
                 loss = self.loss_fn.forward(logits, y_batch)
                 
                 # Backward pass
-                dA = self.loss_fn.backward()
-                for layer in reversed(self.layers):
-                    dA = layer.backward(dA)
+                self.backward(y_batch, logits)
                 
                 # Update weights
                 self.update_weights()
