@@ -84,22 +84,15 @@ class NeuralNetwork:
         """
         loss = self.loss_fn.forward(y_pred,y_true)
         # Compute loss gradient
-        dA = self.loss_fn.backward(y_pred, y_true)
+        dA = self.loss_fn.backward()
         
-        grad_w = []
-        grad_b = []
-    
         # Backpropagate through layers in reverse order
         for layer in reversed(self.layers):
             result = layer.backward(dA)
-            if isinstance(result, tuple) and len(result) == 2:
-                dW, db = result
-                grad_w.append(dW)
-                grad_b.append(db)
-            else:
-                dA = result
-            
-        return grad_w, grad_b
+            if isinstance(result, tuple):
+                dA, _ = result
+            dA, _ = layer.backward(dA)
+        return dA
         
     def update_weights(self):
         """
