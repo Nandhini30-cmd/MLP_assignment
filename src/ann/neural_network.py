@@ -83,7 +83,7 @@ class NeuralNetwork:
             return grad_w, grad_b
         """
         # Compute loss gradient
-        dA = self.loss_fn.backward()
+        dA = self.loss_fn.backward(y_pred, y_true)
         
         # Backpropagate through layers in reverse order
         for layer in reversed(self.layers):
