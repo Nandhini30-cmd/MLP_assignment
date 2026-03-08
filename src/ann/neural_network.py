@@ -82,7 +82,7 @@ class NeuralNetwork:
         Returns:
             return grad_w, grad_b
         """
-        self.loss_fn.forward(y_pred, y_true)
+        self.loss_fn.forward()
         # Compute loss gradient
         dA = self.loss_fn.backward(y_pred, y_true)
         
