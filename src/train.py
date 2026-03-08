@@ -54,7 +54,7 @@ def parse_arguments():
     
     # Loss and Optimizer
     parser.add_argument("-l", "--loss", type=str, required=True, choices= ["mse", "cross_entropy"], help="Loss to use")
-    parser.add_argument("-o", "--optimizer", type=str, required=True, choices=['SGD', 'momentum', 'rmsprop', 'nag'], help="Optimizer to use")
+    parser.add_argument("-o", "--optimizer", type=str, required=True, choices=['SGD', 'sgd', 'momentum', 'rmsprop', 'nag'], help="Optimizer to use")
     
     # Learning Rate and Weight decay
     parser.add_argument('-lr',"--learning_rate", type = float, required=True, help = "Initial Learning rate to use")

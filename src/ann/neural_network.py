@@ -88,7 +88,7 @@ class NeuralNetwork:
         # Backpropagate through layers in reverse order
         for layer in reversed(self.layers):
             dA = layer.backward(dA)
-            
+        return dA
         
     def update_weights(self):
         """
@@ -122,9 +122,8 @@ class NeuralNetwork:
                     y_batch=np.argmax(y_batch,axis=1)
                 loss = self.loss_fn.forward(logits, y_batch)
                 
-                dA = self.loss_fn.backward()
-                
                 # Backward pass
+                dA = self.loss_fn.backward()
                 for layer in reversed(self.layers):
                     dA = layer.backward(dA)
                 

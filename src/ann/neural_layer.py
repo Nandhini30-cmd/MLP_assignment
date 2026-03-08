@@ -54,8 +54,8 @@ class NeuralLayer:
         m = self.X.shape[0]  # batch size
 
         # Gradients
-        self.grad_W = np.dot(self.X.T, dZ) 
-        self.grad_b = np.sum(dZ, axis=0, keepdims=True)
+        self.grad_W = np.dot(self.X.T, dZ)/m
+        self.grad_b = np.sum(dZ, axis=0, keepdims=True) / m
 
         # Gradient w.r.t input (to pass to previous layer)
         dX = np.dot(dZ, self.W.T)
